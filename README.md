@@ -1,5 +1,9 @@
 # [Youtube Uploader Bot](https://tx.me/youtubeitbot)
 
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/tewarknown/utube&branch=main&name=akrutubiebot_10)
+
+
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 
 ### Contents
